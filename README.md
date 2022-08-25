@@ -8,3 +8,5 @@ A web browser for android devices
 </li>
 
 <img src="https://github.com/Kennychibiam/app_web_browser/blob/main/screenshots/img1.jpg" width="300">
+<img src="https://github.com/Kennychibiam/app_web_browser/blob/main/screenshots/img2.jpg" width="300">
+<img src="https://github.com/Kennychibiam/app_web_browser/blob/main/screenshots/img2.jpg" width="300">

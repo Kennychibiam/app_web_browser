@@ -1,12 +1,12 @@
 A web browser for android devices
 
 <strong>Features</strong>
-<li>
-<ul>Speech to text browsing</ul>
-<ul>Manage of multiple web tabs</ul>
-<ul>Access your browing history</ul>
-</li>
-
+<ul>
+<li>Speech to text browsing</li>
+<li>Manage of multiple web tabs</li>
+<li>Access your browing history</li>
+</ul>
+Access the application via<a href="https://play.google.com/store/apps/details?id=com.nitelite.mobileweb.web_browser">link</a>
 <table>
   <tr>
     <td>

@@ -7,4 +7,4 @@ A web browser for android devices
 <ul>Access your browing history</ul>
 </li>
 
-![](screenshots/img1.jpg)
+![](screenshots/%10img1.jpg)

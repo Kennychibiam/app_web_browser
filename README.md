@@ -6,7 +6,7 @@ A web browser for android devices
 <li>Manage of multiple web tabs</li>
 <li>Access your browing history</li>
 </ul>
-Access the application via<a href="https://play.google.com/store/apps/details?id=com.nitelite.mobileweb.web_browser">link</a>
+Access the application via <a href="https://play.google.com/store/apps/details?id=com.nitelite.mobileweb.web_browser">link</a>
 <table>
   <tr>
     <td>

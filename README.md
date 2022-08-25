@@ -15,6 +15,6 @@ A web browser for android devices
     <td>
 <img src="https://github.com/Kennychibiam/app_web_browser/blob/main/screenshots/img2.jpg" width="300"></td>
     <td>
-<img src="https://github.com/Kennychibiam/app_web_browser/blob/main/screenshots/img2.jpg" width="300"></td>
+<img src="https://github.com/Kennychibiam/app_web_browser/blob/main/screenshots/img3.jpg" width="300"></td>
   </tr>
 </table>

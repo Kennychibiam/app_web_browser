@@ -447,6 +447,7 @@ class _WebPageState extends State<WebPageScreen> {
         }
       }
       else if (urlQueried.contains("https://")) {
+
         if (urlQueried.contains("www.")) {
           String validateString = urlQueried.trim();
           widget.webViewController.loadUrl(
